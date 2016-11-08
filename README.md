@@ -2,7 +2,6 @@
 ### Search algorithms for solving the Rush Hour Board Game  
 Finished:  
 + IDDFS  
-  
 &nbsp;  
   
 In Progress:  
